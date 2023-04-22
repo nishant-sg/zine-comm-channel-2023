@@ -11,7 +11,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello :)
+          This is a message only in AuthTest Branch.
         </a>
       </header>
     </div>
